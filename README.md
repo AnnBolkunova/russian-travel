@@ -10,4 +10,4 @@
 
 Аккаунт в GitHub заблокирован, но вот ссылка на проект в интернете:
 
-[https://annbolkunova.github.io/russian-travel/index.html](https://annbolkunova.github.io/russian-travel/index.html)
+https://annbolkunova.github.io/russian-travel/index.html
